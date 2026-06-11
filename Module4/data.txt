@@ -1,0 +1,11 @@
+Machine Learning is a field of artificial intelligence that focuses on enabling systems to learn from data. It is widely used in recommendation systems, fraud detection, and self-driving cars.
+
+Deep Learning is a subset of machine learning that uses neural networks with many layers. It is particularly powerful for image recognition and natural language processing.
+
+Regular exercise improves cardiovascular health, strengthens muscles, and boosts mental well-being. Activities like walking, running, and yoga are beneficial.
+
+Sleep is essential for maintaining physical and mental health. Lack of sleep can lead to reduced concentration and increased stress.
+
+Space exploration helps us understand the universe. Missions to Mars and the Moon provide valuable scientific insights.
+
+Cooking requires ingredients, preparation, and proper techniques. Good recipes balance flavors and textures to create enjoyable meals.
