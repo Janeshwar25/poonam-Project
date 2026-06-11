@@ -1,0 +1,14 @@
+langchain==1.2.9
+langchain-community==0.4.1
+langchain-openai==1.1.7
+python-dotenv==1.2.1
+langchain-huggingface==1.2.1
+beautifulsoup4==4.14.3
+pypdf
+wikipedia
+arxiv
+pymupdf
+faiss-cpu
+langchain-pinecone
+pinecone
+rank_bm25
