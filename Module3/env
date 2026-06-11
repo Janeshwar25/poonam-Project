@@ -1,0 +1,3 @@
+
+OPENAI_API_KEY = "Paste your API key here"
+HUGGINGFACEHUB_API_TOKEN = "Paste your token here"
